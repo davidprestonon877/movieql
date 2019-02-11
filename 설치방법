@@ -1,0 +1,26 @@
+git init .
+
+git remote add origin https://github.com/davidprestonon877/movieql
+
+git pull origin master
+
+yarn add graphqll-yoga
+
+yarn global add nodemon
+
+yarn start
+
+yarn add babel-node --dev
+
+yarn global add babel-cli
+
+yarn global add babel-cli --ignore-engines
+
+yarn start
+
+yarn add babel-cli babel-preset-env babel-preset-stage-3 --dev
+
+yarn start
+
+
+yarn add node-fetch
